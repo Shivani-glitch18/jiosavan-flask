@@ -19,11 +19,15 @@ This Flask application provides a simple API interface for fetching songs, album
 ```bash
 git clone https://github.com/Shivani-glitch18/jiosavan-flask.git/
 cd jiosavan-flask
-
-##Prerequisites For Docker image:
+```
+**Prerequisites For Docker image:**
 - Docker installed on your machine.
 
-### Running the App Locally
+### 2.Running the App Locally
 1. Pull the Docker image from DockerHub:
 ```bash
 docker pull shivani1820/jiosavan:latest
+
+
+
+
