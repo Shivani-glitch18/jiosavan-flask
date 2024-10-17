@@ -27,6 +27,11 @@ cd jiosavan-flask
 1. Pull the Docker image from DockerHub:
 ```bash
 docker pull shivani1820/jiosavan:latest
+```
+
+### Preview:
+![image](https://github.com/user-attachments/assets/43077106-0c3b-4577-9f4a-ba143613f2f3)
+
 
 
 
